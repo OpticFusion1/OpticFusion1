@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sVoxelDev/spigot-plugin-template</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickstart template to create new Spigot Minecraft plugins.</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sVoxelDev/minecraft-server-template</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 30 seconds quickstart template for creating minecraft server networks with docker and git.</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xai-org/grok-1</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grok open release</div>
@@ -519,7 +519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2024, 15:16:15 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2024, 16:14:35 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
