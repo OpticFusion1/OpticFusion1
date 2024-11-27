@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ravbug/sdl3-sample</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal HowTo for building and using SDL3 on a variety of platforms, including mobile and web</div>
@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpiritQuaddicted/quake-code-archives</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Regular archiving of publically available source code repositories</div>
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2024, 23:26:22 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2024, 00:20:44 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
