@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ValveSoftware/source-sdk-2013</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The 2013 edition of the Source SDK</div>
@@ -342,7 +342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mangoszero/server</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mangos ZERO is a server for World of Warcraft. The server serves full world content including authentication &amp; scripts support. Compatible with World of Warcraft clients 1.12.1-1.12.3 - Report all issues at https://www.getmangos.eu/bug-tracker/mangos-zero/</div>
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2024, 04:20:33 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2024, 05:20:38 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
