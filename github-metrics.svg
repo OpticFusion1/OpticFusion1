@@ -398,7 +398,7 @@
                                         <span>starred Nov 26 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Minimal HowTo for building and using SDL3 on a variety of platforms, including mobile and web</div>
+                                <div class="field description">Minimal HowTo for building and using SDL3 on a variety of platforms, including mobile and web. Also includes SDL_mixer and SDL_ttf!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2025, 00:19:17 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2025, 01:28:29 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
