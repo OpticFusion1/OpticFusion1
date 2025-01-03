@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Balastrong/wrand</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎲 Extract one or more random elements from a weighted array (aka loot table or gacha)</div>
@@ -342,7 +342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AshVXmc/ReonixeDungeons</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pixel-art style 2d platformer hack-and-slash RPG</div>
@@ -395,7 +395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakejack13/gachapy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A gacha engine built in Python for developing gacha games</div>
@@ -448,7 +448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>relops/snowflake</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java library to generate k-ordered unique 64-bit integers.</div>
@@ -498,7 +498,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jan 2025, 02:18:41 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2025, 03:25:25 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
