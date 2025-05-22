@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lenni0451/commons</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A java library with many useful functions and classes</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lenni0451/MiniJVM</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small and simple JVM written in Java made for sandboxing basic untrusted code (WIP)</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lenni0451/LambdaEvents</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and modular event library for Java</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lenni0451/ASMEvents</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and feature rich Event library for Java using ASM to dynamically generate executor classes. Check out LambdaEvents for an updated version</div>
@@ -513,7 +513,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 May 2025, 22:14:04 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 May 2025, 23:28:43 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
