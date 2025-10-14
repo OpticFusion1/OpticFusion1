@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Polytonic/Glitter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dead Simple OpenGL</div>
@@ -501,7 +501,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Oct 2025, 06:18:55 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2025, 07:50:23 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
