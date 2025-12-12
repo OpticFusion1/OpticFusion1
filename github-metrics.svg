@@ -350,7 +350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Facepunch/sbox-public</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">s&amp;box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games</div>
@@ -500,7 +500,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Dec 2025, 20:58:20 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2025, 22:38:07 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
