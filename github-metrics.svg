@@ -368,7 +368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>404Setup/ModPublish</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly publish your Minecraft mods to multiple mod hosting sites using Jetbrains IDEA.</div>
@@ -465,7 +465,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2026, 06:44:02 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2026, 08:20:54 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
