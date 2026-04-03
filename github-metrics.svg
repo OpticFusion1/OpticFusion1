@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SFML/SFML</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple and Fast Multimedia Library</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dav1dde/glad</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.</div>
@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocornut/imgui</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</div>
@@ -427,7 +427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SFML/imgui-sfml</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dear ImGui backend for use with SFML</div>
@@ -477,7 +477,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2026, 06:45:20 (timezone EST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 08:13:15 (timezone EST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
