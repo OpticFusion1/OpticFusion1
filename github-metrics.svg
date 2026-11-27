@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grayj/Jedi-Outcast</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Star Wars Jedi Knight II: Jedi Outcast</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grayj/Jedi-Academy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Star Wars Jedi Knight: Jedi Academy</div>
@@ -471,7 +471,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Nov 2026, 02:32:44 (timezone EST) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 27 Nov 2026, 12:57:12 (timezone EST) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
